@@ -1,0 +1,26 @@
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Subject: Password reset on 127.0.0.1:8000
+From: webmaster@localhost
+To: jgregoza@outlook.com
+Date: Sat, 12 Feb 2022 21:11:48 -0000
+Message-ID: 
+ <164470030810.6304.4101244054614920358@CFLSEGINFRA02.ni.lafise.corp>
+
+
+You're receiving this email because you requested a password reset for your user account at 127.0.0.1:8000.
+
+Please go to the following page and choose a new password:
+
+http://127.0.0.1:8000/accounts/reset/MQ/b0qnjo-257c2a468a338e8dc156f1f5849e5dce/
+
+Your username, in case you’ve forgotten: jzamora
+
+Thanks for using our site!
+
+The 127.0.0.1:8000 team
+
+
+
+-------------------------------------------------------------------------------
